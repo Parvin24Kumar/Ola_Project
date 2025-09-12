@@ -47,9 +47,6 @@ Top 5 Customers by Total Booking Value
 Ride Distance Distribution per Day
 Cancellations
 Cancelled Rides Reasons (Customer vs Driver)
-
 Ratings
-
 Driver Ratings Distribution
-
 Customer vs Driver Ratings Comparison
