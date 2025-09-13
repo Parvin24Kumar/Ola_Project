@@ -1,10 +1,10 @@
 This project simulates the role of a Data Analyst working with OLA ride booking data. The dataset contains booking, customer, driver, and ride-related information for Bengaluru city.
 
-The project involves:
+The project involves - 
 SQL Queries to analyse booking patterns, cancellations, ratings, and revenue.
- to visualise ride volume, cancellations, customer/driver ratings, and revenue breakdowns.
+to visualise ride volume, cancellations, customer/driver ratings, and revenue breakdowns.
 
-📊 Dataset Details
+📊 Dataset Details - 
 The dataset consists of 1,00,000 rows for one month with the following fields:
 Date, Time, Booking_ID, Booking_Status
 Customer_ID, Vehicle_Type, Pickup_Location, Drop_Location
@@ -14,7 +14,7 @@ Incomplete Rides + Reasons
 Booking Value, Payment Method, Ride Distance
 Driver Ratings, Customer Ratings
 
-Constraints:
+Constraints - 
 Successful bookings: ~62%
 Cancelled by customer: ≤ 7%
 Cancelled by driver: ≤ 18%
@@ -22,7 +22,7 @@ Incomplete rides: ≤ 6%
 Weekend & match days → higher order volume
 Order values are higher on weekends
 
-🛠 SQL Tasks
+🛠 SQL Tasks - 
 Retrieve all successful bookings
 Find the average ride distance for each vehicle type
 Get the total cancelled rides by customers
@@ -34,7 +34,7 @@ Average customer rating per vehicle type
 Total booking value of successful rides
 List incomplete rides with reasons
 
-📈 Power BI Dashboards
+📈 Power BI Dashboards - 
 Overall Performance
 Ride Volume Over Time
 Booking Status Breakdown
