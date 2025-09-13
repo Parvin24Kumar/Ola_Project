@@ -1,6 +1,6 @@
 This project simulates the role of a Data Analyst working with OLA ride booking data. The dataset contains booking, customer, driver, and ride-related information for Bengaluru city.
 
-The project involves - 
+The project involves -    
 SQL Queries to analyse booking patterns, cancellations, ratings, and revenue.
 to visualise ride volume, cancellations, customer/driver ratings, and revenue breakdowns.
 
