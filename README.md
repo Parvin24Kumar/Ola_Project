@@ -52,7 +52,15 @@ Driver Ratings Distribution,
 Customer vs Driver Ratings Comparison.
 
 ### 6. Screenshots / Demos
-Overall - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Cancellation.png)
+Overall - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Overall.png)
+Vehicle Type - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Vehicle%20Type.png)
+Revenue - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Revenue.png)
+Cancellation - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Cancellation.png)
+Ratings - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Ratings.png)
+
+
+
+
 
 
 I
