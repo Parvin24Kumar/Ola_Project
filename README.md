@@ -57,10 +57,3 @@ Vehicle Type - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenSho
 Revenue - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Revenue.png)  
 Cancellation - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Cancellation.png)  
 Ratings - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Ratings.png)  
-
-
-
-
-
-
-I
