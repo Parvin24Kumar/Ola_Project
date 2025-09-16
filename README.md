@@ -51,12 +51,18 @@ Ratings,
 Driver Ratings Distribution,
 Customer vs Driver Ratings Comparison.
 
-### 6. Screenshots / Demos  
+### 6. Screenshots
+Overall 
 ![image alt](https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Overall.png?raw=true)
 
+Vehicle Type
+![image alt](https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Vehicle%20Type.png?raw=true)  
 
-Overall - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Overall.png)  
-Vehicle Type - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Vehicle%20Type.png)  
-Revenue - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Revenue.png)  
-Cancellation - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Cancellation.png)  
-Ratings - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Ratings.png)  
+Revenue
+![image alt](https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Revenue.png?raw=true)  
+
+Cancellation 
+![image alt](https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Cancellation.png?raw=true)  
+
+Ratings
+![image alt](https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Ratings.png?raw=true)  
