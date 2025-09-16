@@ -23,30 +23,30 @@ Weekend & match days → higher order volume
 Order values are higher on weekends
 
 🛠 SQL Tasks :       
-Retrieve all successful bookings
-Find the average ride distance for each vehicle type
-Get the total cancelled rides by customers
-Top 5 customers by ride volume
-Rides cancelled by drivers due to personal/car issues
-Max & Min driver ratings for Prime Sedan
-Retrieve rides with UPI payments
-Average customer rating per vehicle type
-Total booking value of successful rides
-List incomplete rides with reasons
+Retrieve all successful bookings,
+Find the average ride distance for each vehicle type,
+Get the total cancelled rides by customers,
+Top 5 customers by ride volume,
+Rides cancelled by drivers due to personal/car issues,
+Max & Min driver ratings for Prime Sedan,
+Retrieve rides with UPI payments,
+Average customer rating per vehicle type,
+Total booking value of successful rides,
+List incomplete rides with reasons.
 
 📈 Power BI Dashboards :       
-Overall Performance
-Ride Volume Over Time
-Booking Status Breakdown
-Vehicle Analysis
-Top 5 Vehicle Types by Ride Distance
-Average Customer Ratings by Vehicle Type
-Revenue Insights
-Revenue by Payment Method
-Top 5 Customers by Total Booking Value
-Ride Distance Distribution per Day
-Cancellations
-Cancelled Rides Reasons (Customer vs Driver)
-Ratings
-Driver Ratings Distribution
-Customer vs Driver Ratings Comparison
+Overall Performance,
+Ride Volume Over Time,
+Booking Status Breakdown,
+Vehicle Analysis,
+Top 5 Vehicle Types by Ride Distance,
+Average Customer Ratings by Vehicle Type,
+Revenue Insights,
+Revenue by Payment Method,
+Top 5 Customers by Total Booking Value,
+Ride Distance Distribution per Day,
+Cancellations,
+Cancelled Rides Reasons (Customer vs Driver),
+Ratings,
+Driver Ratings Distribution,
+Customer vs Driver Ratings Comparison.
