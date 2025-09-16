@@ -52,10 +52,11 @@ Driver Ratings Distribution,
 Customer vs Driver Ratings Comparison.
 
 ### 6. Screenshots / Demos  
-Overall(https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Overall.png)
-Overall[Dashboard Preview](https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Overall.png)
+### 6. Screenshots / Demos
+Show what the dashboard looks like. - l[Alt_text](https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Overall.png)
+Example: 1[Dashboard Preview](https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Overall.png)
 
-I
+
 Overall - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Overall.png)  
 Vehicle Type - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Vehicle%20Type.png)  
 Revenue - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Revenue.png)  
