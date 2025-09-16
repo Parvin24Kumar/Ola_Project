@@ -52,7 +52,7 @@ Driver Ratings Distribution,
 Customer vs Driver Ratings Comparison.
 
 ### 6. Screenshots / Demos
-Show what the dashboard looks like. - l[Alt_text](https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Cancellation.png)
-Example: 1[Dashboard Preview]()
+Overall - (https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Cancellation.png)
+
 
 I
