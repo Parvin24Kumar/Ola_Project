@@ -52,7 +52,7 @@ Driver Ratings Distribution,
 Customer vs Driver Ratings Comparison.
 
 ### 6. Screenshots / Demos  
-Overall(https://github.com/username/repo/assets/image.png)
+Overall(https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Overall.png)
 Overall[Dashboard Preview](https://github.com/Parvin24Kumar/Ola_Project/blob/main/ScreenShot%20-%20Overall.png)
 
 I
