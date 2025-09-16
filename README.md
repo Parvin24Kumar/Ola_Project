@@ -12,7 +12,7 @@ V_TAT, C_TAT (vehicle/customer arrival times)
 Cancelled Rides by Customer/Driver + Reasons
 Incomplete Rides + Reasons
 Booking Value, Payment Method, Ride Distance
-Driver Ratings, Customer Ratings
+Driver Ratings, Customer Ratings.
 
 Constraints :       
 Successful bookings: ~62%
@@ -20,7 +20,7 @@ Cancelled by customer: ≤ 7%
 Cancelled by driver: ≤ 18%
 Incomplete rides: ≤ 6%
 Weekend & match days → higher order volume
-Order values are higher on weekends
+Order values are higher on weekends.
 
 🛠 SQL Tasks :       
 Retrieve all successful bookings,
